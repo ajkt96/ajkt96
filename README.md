@@ -71,3 +71,17 @@
 ![SOC 2](https://img.shields.io/badge/SOC%202-%23003087.svg?style=for-the-badge&logoColor=white)
 ![PCI DSS](https://img.shields.io/badge/PCI%20DSS-%23003087.svg?style=for-the-badge&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-%23293E40.svg?style=for-the-badge&logo=servicenow&logoColor=white)
+
+---
+
+<!-- SECTION D: GITHUB STATS -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajaykthati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykthati&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykthati&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+</p>
