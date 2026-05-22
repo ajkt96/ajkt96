@@ -94,3 +94,17 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ajaykthati&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies" />
 </p>
+
+---
+
+<!-- SECTION G: CERTIFICATIONS -->
+## 🏅 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM-Cybersecurity%20Tools%20%26%20Attacks-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Security%20Certified%20Professional-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Security%20Risk%20%26%20Vulnerability%20Mgmt-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/CyberArk-Certified%20Defender-003A70?style=flat-square&logo=cyberark&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISC2-Candidate-006747?style=flat-square&logo=isc2&logoColor=white" />
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B%20Foundations-C8202F?style=flat-square&logo=comptia&logoColor=white" />
+</p>
