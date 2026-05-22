@@ -1,3 +1,12 @@
+<!-- SECTION A: ANIMATED HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Ajay+Kumar+Thati+%F0%9F%91%8B;Cyber+Security+Engineer+%F0%9F%94%90;Zero+Trust+%7C+Cloud+Security+%7C+SOC+%F0%9F%9B%A1%EF%B8%8F;Threat+Hunter+%7C+SIEM+%7C+SOAR+Specialist;Turning+Noise+into+Signal+%F0%9F%8E%AF" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 <!-- SECTION G: VISITOR COUNTER -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ajaykthati&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
