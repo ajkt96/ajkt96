@@ -108,3 +108,23 @@
   <img src="https://img.shields.io/badge/ISC2-Candidate-006747?style=flat-square&logo=isc2&logoColor=white" />
   <img src="https://img.shields.io/badge/CompTIA-Security%2B%20Foundations-C8202F?style=flat-square&logo=comptia&logoColor=white" />
 </p>
+
+---
+
+<!-- SECTION H: CONTACT -->
+<div align="center">
+
+> 🔐 *"Security is not a product, but a process."* — Bruce Schneier
+
+Whether you're building a Zero Trust strategy, hunting advanced threats, or hardening your cloud posture — let's talk.
+
+📧 ajaykthati@gmail.com &nbsp;|&nbsp; 📍 Orlando, FL &nbsp;|&nbsp; 📞 (720) 676-8034
+
+<a href="https://www.linkedin.com/in/ajaykthati">
+  <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ajaykthati@gmail.com">
+  <img src="https://img.shields.io/badge/-Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
