@@ -1,3 +1,10 @@
+<!-- SECTION G: VISITOR COUNTER -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ajaykthati&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen?style=flat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Zero%20Trust%20%7C%20Cloud%20Security-blue?style=flat" />
+</p>
+
 <!-- SECTION C: TECH STACK -->
 ## 🧰 Tech Stack
 
