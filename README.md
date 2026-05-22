@@ -7,6 +7,42 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+<!-- SECTION B: ABOUT ME -->
+## 🛡️ About Me
+
+```python
+class CyberSecurityEngineer:
+
+    def __init__(self):
+        self.name       = "Ajay Kumar Thati"
+        self.role       = "Cyber Security Engineer"
+        self.location   = "Orlando, FL 🌴"
+        self.experience = "7+ Years"
+        self.current    = "JPMorgan Chase — securing 50,000+ endpoints"
+        self.mission    = "Eliminate threats before they become incidents"
+
+    def expertise(self):
+        return [
+            "Zero Trust Architecture (NIST 800-207)",
+            "SIEM/SOAR — Splunk ES, Sentinel, Elastic",
+            "Cloud Security — AWS, Azure, GCP",
+            "Identity & Access Management (IAM/PAM)",
+            "DevSecOps — SAST, DAST, SCA in CI/CD",
+            "LLM-Assisted Security Operations",
+        ]
+
+    def current_focus(self):
+        return "Reducing MTTD/MTTR at enterprise scale 🚀"
+```
+
+🔐 I'm a Cyber Security Engineer with **7+ years** protecting enterprise and cloud-native environments — from Fortune 500 to global financial infrastructure.
+
+- 🏦 **Currently at JPMorgan Chase** — leading Zero Trust implementation across 50K+ endpoints
+- ☁️ **Secured 200+ AWS/Azure accounts** and reduced unauthorized access incidents by 25%
+- 🤖 **Built LLM-assisted log triage** inside Elastic SIEM, cutting analyst triage time by 15%
+- ⚡ **Slashed MTTR from 4+ hours → under 90 minutes** via Python + XSOAR automation
+- 🎓 **Pursuing Master's in Cybersecurity** @ Webster University, Orlando
+
 <!-- SECTION G: VISITOR COUNTER -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ajaykthati&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
