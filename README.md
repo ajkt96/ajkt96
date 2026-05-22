@@ -14,6 +14,20 @@
   <img src="https://img.shields.io/badge/Focus-Zero%20Trust%20%7C%20Cloud%20Security-blue?style=flat" />
 </p>
 
+<!-- SECTION B: CAREER TIMELINE -->
+## 🗓️ Experience Timeline
+
+```
+ 2017 ──────── 2019 ──────────────── 2022 ──────────────── 2024 ──► Present
+   │              │                    │                     │
+Cisco Systems  Cisco Systems       Microsoft            JPMorgan Chase
+Security       (2 yrs)             Security Engineer    Cyber Security
+Analyst        [Network Sec]       (3 yrs)              Engineer
+[SIEM/Splunk]  [Python Auto]       [Azure/Sentinel]     [Zero Trust]
+               [Vuln Mgmt]         [IAM/PAM/SOAR]       [AWS/XSOAR]
+                                                         [LLM SecOps]
+```
+
 <!-- SECTION C: TECH STACK -->
 ## 🧰 Tech Stack
 
