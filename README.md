@@ -219,7 +219,7 @@ Whether you're building a Zero Trust strategy, hunting advanced threats, or hard
   <img src="https://img.shields.io/badge/-Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-⚡ Profile last updated: 2024 | Built with passion for security and open source
+⚡ Profile last updated: 2026 | Built with passion for security and open source
 
 ## 🗓️ Experience Timeline
 
