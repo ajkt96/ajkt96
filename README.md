@@ -170,15 +170,6 @@ Security Analyst    Security Engineer    (cont.)              Cyber Security
 [Vuln Mgmt]         [SOAR Playbooks]     [Threat Intel]       [AWS/XSOAR]
 [Network Sec]       [Defender Cloud]     [DevSecOps]          [LLM SecOps]
 ```
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🎯 Career Highlights
